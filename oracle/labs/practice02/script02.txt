@@ -1,0 +1,1 @@
+ch = ( ch >= 'a' && ch <= 'z') ? (char) (ch-=32) : (char) (ch+=32);
