@@ -13,7 +13,7 @@ public class StringBuilderDemo {
         System.out.println(stringBuilder);
         stringBuilder.reverse();
         System.out.println(stringBuilder);
-        System.out.println(stringBuilder.capacity());
+        System.out.println(stringBuilder.capacity());  // Size of inetrnal storage.
     }
 }
 
