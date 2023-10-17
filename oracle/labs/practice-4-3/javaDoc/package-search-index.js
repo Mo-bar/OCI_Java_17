@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"barkouch.org.app"},{"l":"barkouch.org.data"}];updateSearchResults();

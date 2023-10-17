@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"barkouch.org.data","l":"Product"},{"p":"barkouch.org.app","l":"Shop"}];updateSearchResults();
