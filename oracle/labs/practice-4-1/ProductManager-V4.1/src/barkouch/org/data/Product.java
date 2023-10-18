@@ -11,7 +11,7 @@ import static java.math.RoundingMode.HALF_DOWN;
  * <br>
  * Each product can have a discount, calculated based on a
  * {@link java.math.BigDecimal DISCOUNT_RATE }
- * @version 17.8.1
+ * @version 4.1
  * @author BarkouchMourad
  **/
 public class Product {
